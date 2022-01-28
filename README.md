@@ -1,7 +1,7 @@
 ## Hi I'm Gabriel Neves
 
 - 🔭 Graduated in Mechanical Engineer
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning to code
 - 😄 Pronouns: he/his
 
 ##
