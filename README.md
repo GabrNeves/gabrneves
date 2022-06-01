@@ -1,7 +1,8 @@
 ## Hi I'm Gabriel Neves
 
-- 🔭 Graduated in Mechanical Engineer
-- 🌱 I’m currently learning to code
+- ⚙️ Graduated in Mechanical Engineer
+- 💻 Changing career to Software Development
+- 📗 Learning every day a little more about coding
 - 😄 Pronouns: he/his
 
 ##
